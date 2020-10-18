@@ -6,6 +6,8 @@ I'm a junior frontend developer.
 
 🔭 I’m currently working on test tasks (React/Redux stack).
 
+👾 2020 Goals: Find a new job, improve my English, not to die of Coronavirus
+
 Tools and languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
