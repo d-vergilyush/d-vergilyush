@@ -2,9 +2,17 @@
 
 I'm a junior frontend developer.
 
-🌱 I’m currently learning TypeScript.
+### My areas of interest are:
 
-🔭 I’m currently working on test tasks (React/Redux stack).
+📱 React
+
+🚀 TypeScript
+
+<hr />
+
+🔦 I’m currently learning UI Testing Approaches
+
+🔭 I’m currently working on test tasks (React/Redux stack)
 
 👾 2020 Goals: Find a new job, improve my English, not to die of Coronavirus
 
