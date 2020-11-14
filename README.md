@@ -12,7 +12,7 @@ I'm a junior frontend developer.
 
 🔦 I’m currently learning UI Testing Approaches
 
-🔭 I’m currently working on test tasks (React/Redux stack)
+🔭 I’m currently working on a project in the React/Redux stack
 
 👾 2020 Goals: Find a new job, improve my English, not to die of Coronavirus
 
