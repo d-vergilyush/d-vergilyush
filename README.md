@@ -14,8 +14,6 @@ I'm a junior frontend developer.
 
 🔭 I’m currently working on a project in the React/Redux stack
 
-👾 2020 Goals: Find a new job, improve my English, not to die of Coronavirus
-
 <hr />
 
 ### Languages and Tools:
@@ -31,7 +29,7 @@ I'm a junior frontend developer.
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
   <!--
-  
+  - 👾 2021 Goals: improve my English
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
